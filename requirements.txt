@@ -1,5 +1,4 @@
 ultralytics
-cv2
 os
 datetime
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+opencv-python
