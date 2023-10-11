@@ -107,7 +107,7 @@ def detect_live_camera(cam_num):
             clip_frames = []
             clip_saved = True
 
-        cv2.imshow('Webcam', original_image_with_cigarette_box)
+        '''cv2.imshow('Webcam', original_image_with_cigarette_box)'''
         if cv2.waitKey(1) == ord('q'):
             break
 
